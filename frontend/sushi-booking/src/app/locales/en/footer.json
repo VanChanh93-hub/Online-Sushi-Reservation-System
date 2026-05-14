@@ -1,0 +1,41 @@
+{
+  "logo_text": "SUSHI TAKUMI",
+  "tagline": "Traditional Japanese sushi art with sophistication and perfection in every detail",
+  "address": {
+    "title": "Restaurant Location",
+    "street": "123 Ham Nghi, District 1",
+    "city": "Ho Chi Minh City"
+  },
+  "opening_hours": {
+    "title": "Opening Hours",
+    "lunch": "11:30 - 14:00 (Lunch)",
+    "dinner": "17:00 - 22:00 (Dinner)"
+  },
+  "menu_services": {
+    "title": "Menu & Services",
+    "omakase": "Sushi Omakase",
+    "premium_set": "Premium Set Menu",
+    "counter_reservation": "Itamae Counter Reservation",
+    "special_events": "Special Events"
+  },
+  "contact": {
+    "title": "Contact",
+    "phone": "Phone: 024 234 JQK",
+    "email": "Email: info@sushitakumi.vn"
+  },
+  "social": {
+    "title": "Connect with us"
+  },
+  "newsletter": {
+    "title": "Get Promotions",
+    "description": "Subscribe to receive special offers and exclusive events",
+    "placeholder": "Your email",
+    "button": "Subscribe"
+  },
+  "links": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "sitemap": "Sitemap"
+  },
+  "copyright": "SUSHI TAKUMI. All rights reserved."
+}

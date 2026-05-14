@@ -1,0 +1,17 @@
+{
+  "badge": "SPECIAL COMBO",
+  "title": "Premium Combo Offers",
+  "subtitle": "Save more with our family and friends combos",
+  "serving_size": "people",
+  "currency": "VND",
+  "order_button": "Order Now",
+  "error_title": "An error occurred",
+  "error_message": "Failed to load combos. Please try again later.",
+  "reload_button": "Reload",
+  "aria_labels": {
+    "prev_combo": "Previous combo",
+    "next_combo": "Next combo",
+    "go_to_combo": "Go to combo",
+    "combo_image": "Combo"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Về Chúng Tôi",
+  "intro": "Sushi Takumi là sự kết hợp giữa nghệ thuật chế biến truyền thống Nhật Bản và tinh thần hiếu khách hiện đại.",
+  "description": "Chúng tôi tự hào mang đến những món sushi thủ công với hương vị tinh tế, đậm đà và nguyên liệu tươi ngon mỗi ngày.",
+  "values": {
+    "fresh": {
+      "title": "Tươi Mỗi Ngày",
+      "description": "Chúng tôi chỉ chọn những nguyên liệu tươi ngon nhất mỗi ngày để đảm bảo chất lượng tối ưu cho từng món ăn."
+    },
+    "art": {
+      "title": "Nghệ Thuật Sushi",
+      "description": "Mỗi món sushi là một tác phẩm nghệ thuật, được tạo nên bởi đôi bàn tay tài hoa của các đầu bếp Takumi."
+    },
+    "space": {
+      "title": "Không Gian Nhật",
+      "description": "Thực khách sẽ được trải nghiệm không gian Nhật Bản ấm cúng, tinh tế ngay giữa lòng Sài Gòn."
+    }
+  }
+}

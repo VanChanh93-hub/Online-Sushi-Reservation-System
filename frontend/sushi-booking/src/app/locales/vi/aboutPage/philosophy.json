@@ -1,0 +1,28 @@
+{
+  "title": "Triết Lý Ẩm Thực",
+  "description": "Mỗi món ăn tại Sushi Takumi là sự kết hợp giữa kỹ thuật truyền thống và tinh thần hiện đại. Từng lát cá được chọn lựa kỹ từ chợ Tsukiji, mang lại trải nghiệm ẩm thực trọn vẹn.",
+  "principles": {
+    "quality": {
+      "title": "Chất Lượng Là Hàng Đầu",
+      "desc": "Nguyên liệu tươi ngon, nhập khẩu từ Nhật và chế biến theo quy trình nghiêm ngặt."
+    },
+    "aesthetics": {
+      "title": "Thẩm Mỹ Tinh Tế",
+      "desc": "Món ăn trình bày nghệ thuật, tôn vinh văn hoá Nhật qua từng đường nét."
+    },
+    "customer": {
+      "title": "Khách Hàng Là Trọng Tâm",
+      "desc": "Không gian và dịch vụ khiến khách như được trải nghiệm Nhật Bản thực thụ."
+    }
+  },
+  "quote": {
+    "text": "Sushi không chỉ là món ăn, mà là cầu nối văn hóa và nghệ thuật qua từng lát cá và miếng cơm.",
+    "author": "Takumi Yamamoto"
+  },
+  "imageAlt": "Nghệ thuật sushi thủ công",
+  "image": {
+    "caption": "Nghệ thuật sushi thủ công",
+    "subcaption": "Từng chi tiết đều hoàn hảo"
+  },
+  "yearsExperience": "Năm kinh nghiệm"
+}

@@ -1,0 +1,17 @@
+{
+  "title": {
+    "line1": "SUSHI",
+    "line2": "TAKUMI"
+  },
+  "subtitle": "The art of traditional Japanese sushi",
+  "description": "Each sushi piece is crafted with passion and precision, offering an authentic dining experience from the land of the rising sun.",
+  "buttons": {
+    "menu": "Explore Menu",
+    "reserve": "Reserve Now"
+  },
+  "stats": {
+    "experience": "Years of Experience",
+    "rating": "Rating",
+    "special_dishes": "Signature Dishes"
+  }
+}

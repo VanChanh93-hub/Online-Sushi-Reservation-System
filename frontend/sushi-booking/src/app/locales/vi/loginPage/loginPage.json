@@ -1,0 +1,15 @@
+{
+  "title": "Đăng nhập tài khoản",
+  "description": "Chào mừng trở lại! Vui lòng đăng nhập để tiếp tục",
+  "email": "Email",
+  "password": "Mật khẩu",
+  "remember": "Ghi nhớ đăng nhập",
+  "forgot": "Quên mật khẩu?",
+  "loginButton": "Đăng nhập",
+  "noAccount": "Chưa có tài khoản?",
+  "registerNow": "Đăng ký ngay",
+  "or": "Hoặc tiếp tục với",
+  "google": "Đăng nhập với Google",
+  "dontHaveAccount": "Chưa có tài khoản?",
+  "register": "Đăng ký ngay"
+}

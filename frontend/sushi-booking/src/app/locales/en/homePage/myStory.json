@@ -1,0 +1,26 @@
+{
+  "badge": "THE ESSENCE OF JAPANESE CUISINE",
+  "title": {
+    "line1": "The Journey of",
+    "highlight": "Sushi Takumi"
+  },
+  "description": {
+    "1": "Sushi Takumi began as a small sushi shop in Tokyo in 1985, where our grandfather – sushi master Jiro Tanaka – dedicated his life to perfecting the art of Japanese cuisine.",
+    "2": "We continue that legacy with fresh ingredients, traditional techniques, and creative spirit."
+  },
+  "stats": {
+    "experience": {
+      "value": "35+",
+      "label": "Years of Experience"
+    },
+    "branches": {
+      "value": "5",
+      "label": "Branches"
+    },
+    "ingredients": {
+      "value": "100%",
+      "label": "Japanese Ingredients"
+    }
+  },
+  "image_alt": "Sushi Takumi restaurant image"
+}

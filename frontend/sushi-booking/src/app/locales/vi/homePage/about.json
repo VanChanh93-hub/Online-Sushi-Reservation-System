@@ -1,0 +1,32 @@
+{
+  "subtitle": "Nhà hàng của chúng tôi",
+  "title": {
+    "line1": "Chúng tôi yêu thích",
+    "line2": "ẩm thực Nhật Bản truyền thống"
+  },
+  "description": "Mỗi món ăn đều được chế biến từ nguyên liệu tươi ngon, mang hương vị tinh tế đúng chuẩn Nhật Bản, trong không gian mang đậm dấu ấn Edo cổ điển.",
+  "schedule": {
+    "weekdays": {
+      "label": "Thứ Hai - Thứ Sáu",
+      "time": "9:00 – 22:00"
+    },
+    "saturday": {
+      "label": "Thứ Bảy",
+      "time": "9:00 – 20:00"
+    },
+    "sunday": {
+      "label": "Chủ Nhật",
+      "time": "10:00 – 18:00"
+    },
+    "holidays": {
+      "label": "Ngày lễ",
+      "time": "11:00 – 17:00"
+    }
+  },
+  "cta_button": "Khám phá thực đơn",
+  "images": {
+    "main": "Sushi Roll",
+    "secondary": "Sushi Dish",
+    "circle": "Japanese Ingredients"
+  }
+}

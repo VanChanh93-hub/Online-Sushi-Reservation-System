@@ -1,0 +1,33 @@
+{
+  "title": "Lịch Sử Hình Thành",
+  "description": "Hành trình từ một cửa hàng nhỏ tại Tokyo đến chuỗi nhà hàng danh tiếng tại Việt Nam là kết tinh của đam mê, truyền thống và sáng tạo không ngừng nghỉ.",
+  "imageAlt": "Lịch sử Sushi Takumi - Từ Tokyo đến Sài Gòn",
+  "badge": {
+    "title": "Hành trình 30 năm",
+    "subtitle": "Từ Tokyo đến Sài Gòn"
+  },
+  "experience": "Năm kinh nghiệm",
+  "countries": "Quốc gia",
+  "milestones": {
+    "1995": {
+      "location": "Tokyo",
+      "title": "Khởi Nguồn Đam Mê",
+      "description": "Đầu bếp trưởng Takumi Yamamoto mở nhà hàng đầu tiên, mang phong cách sushi thủ công độc đáo với triết lý 'mỗi miếng sushi là một tác phẩm nghệ thuật'."
+    },
+    "2015": {
+      "location": "Sài Gòn",
+      "title": "Mở Rộng Tầm Nhìn",
+      "description": "Sushi Takumi khai trương tại Việt Nam, kết nối tinh hoa Nhật Bản với văn hóa ẩm thực địa phương, tạo nên sự hòa quyện độc đáo."
+    },
+    "2024": {
+      "location": "Hiện tại",
+      "title": "Thành Tựu Vượt Trội",
+      "description": "Trở thành điểm đến yêu thích cho thực khách yêu mến sự tinh tế của ẩm thực Nhật Bản, với hơn 10,000 khách hàng thân thiết."
+    }
+  },
+  "stats": {
+    "awards": "Giải thưởng",
+    "customers": "Khách hàng",
+    "rating": "Đánh giá"
+  }
+}

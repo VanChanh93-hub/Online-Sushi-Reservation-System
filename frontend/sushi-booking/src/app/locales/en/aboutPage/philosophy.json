@@ -1,0 +1,28 @@
+{
+  "title": "Philosophy of Cuisine",
+  "description": "Every dish at Sushi Takumi is a blend of traditional techniques and modern spirit. Each fish slice is carefully selected from Tsukiji market to deliver a perfect culinary experience.",
+  "principles": {
+    "quality": {
+      "title": "Top-Notch Quality",
+      "desc": "Fresh ingredients imported from Japan and processed under strict standards."
+    },
+    "aesthetics": {
+      "title": "Elegant Aesthetics",
+      "desc": "Dishes are artistically presented, honoring Japanese culture in every detail."
+    },
+    "customer": {
+      "title": "Customer-Centric",
+      "desc": "The space and service make guests feel like they are in Japan."
+    }
+  },
+  "quote": {
+    "text": "Sushi is not just food, but a bridge between culture and art through each slice of fish and rice.",
+    "author": "Takumi Yamamoto"
+  },
+  "imageAlt": "Handcrafted sushi artistry",
+  "image": {
+    "caption": "Handcrafted sushi artistry",
+    "subcaption": "Every detail is perfection"
+  },
+  "yearsExperience": "Years of Experience"
+}

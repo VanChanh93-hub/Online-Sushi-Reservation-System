@@ -1,0 +1,15 @@
+{
+  "heading": "Giá Trị Cốt Lõi",
+  "subheading": "Ba giá trị then chốt tạo nên bản sắc và trải nghiệm đậm chất Nhật Bản trong từng món ăn và dịch vụ của chúng tôi.",
+  "note": "Những nguyên tắc này định hướng mọi hoạt động và cam kết của Sushi Takumi.",
+  "quote": "Ba giá trị cốt lõi này không chỉ là kim chỉ nam cho hoạt động kinh doanh, mà còn là cam kết của chúng tôi với mỗi thực khách.",
+  "quote_by": "— Sushi Takumi Team",
+
+  "values_0": "{\"title\":\"Chất lượng\",\"desc\":\"Nguyên liệu tươi sống và kỹ thuật chế biến chuẩn Nhật.\",\"detail\":\"Chúng tôi cam kết sử dụng nguyên liệu tươi ngon, được chọn lọc kỹ càng từ các nhà cung cấp uy tín, kết hợp cùng kỹ thuật chế biến truyền thống Nhật Bản để mang đến trải nghiệm ẩm thực đỉnh cao.\",\"icon\":\"Award\",\"stats\":\"100%\",\"statsLabel\":\"Tươi ngon\"}",
+  "values_1": "{\"title\":\"Tôn trọng\",\"desc\":\"Đối xử với khách hàng như thượng khách trong văn hóa Nhật.\",\"detail\":\"Chúng tôi luôn đặt khách hàng lên hàng đầu, mang đến sự tận tâm, lịch thiệp và không gian phục vụ đúng chuẩn tinh thần hiếu khách Nhật Bản.\",\"icon\":\"Heart\",\"stats\":\"4.9★\",\"statsLabel\":\"Đánh giá\"}",
+  "values_2": "{\"title\":\"Sáng tạo\",\"desc\":\"Luôn đổi mới thực đơn nhưng vẫn giữ hồn sushi truyền thống.\",\"detail\":\"Chúng tôi không ngừng sáng tạo để làm mới thực đơn, kết hợp các nguyên liệu độc đáo, mang đến trải nghiệm ẩm thực đa dạng nhưng vẫn giữ vững giá trị truyền thống.\",\"icon\":\"Lightbulb\",\"stats\":\"50+\",\"statsLabel\":\"Món đặc sắc\"}",
+
+  "stats_0": "{\"icon\":\"Award\",\"number\":\"3\",\"text\":\"Giá trị cốt lõi\"}",
+  "stats_1": "{\"icon\":\"Star\",\"number\":\"15+\",\"text\":\"Năm kinh nghiệm\"}",
+  "stats_2": "{\"icon\":\"Heart\",\"number\":\"100%\",\"text\":\"Cam kết chất lượng\"}"
+}

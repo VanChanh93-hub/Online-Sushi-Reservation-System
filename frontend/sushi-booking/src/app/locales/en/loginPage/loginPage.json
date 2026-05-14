@@ -1,0 +1,15 @@
+{
+  "title": "Login to your account",
+  "description": "Welcome back! Please log in to continue",
+  "email": "Email",
+  "password": "Password",
+  "remember": "Remember me",
+  "forgot": "Forgot password?",
+  "loginButton": "Log in",
+  "noAccount": "Don't have an account?",
+  "registerNow": "Register now",
+  "or": "Or continue with",
+  "google": "Sign in with Google",
+  "dontHaveAccount": "Don't have an account?",
+  "register": "Register now"
+}

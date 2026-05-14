@@ -1,0 +1,26 @@
+{
+  "badge": "TINH HOA ẨM THỰC NHẬT",
+  "title": {
+    "line1": "Hành trình",
+    "highlight": "Sushi Takumi"
+  },
+  "description": {
+    "1": "Sushi Takumi bắt nguồn từ một tiệm sushi nhỏ ở Tokyo năm 1985, nơi ông nội của chúng tôi – bậc thầy sushi Jiro Tanaka – đã dành cả đời để hoàn thiện nghệ thuật ẩm thực Nhật Bản.",
+    "2": "Chúng tôi kế thừa di sản ấy với nguyên liệu tươi ngon, kỹ thuật truyền thống và tinh thần sáng tạo."
+  },
+  "stats": {
+    "experience": {
+      "value": "35+",
+      "label": "Năm kinh nghiệm"
+    },
+    "branches": {
+      "value": "5",
+      "label": "Chi nhánh"
+    },
+    "ingredients": {
+      "value": "100%",
+      "label": "Nguyên liệu Nhật"
+    }
+  },
+  "image_alt": "Ảnh nhà hàng Sushi Takumi"
+}

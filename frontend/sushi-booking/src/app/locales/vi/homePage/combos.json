@@ -1,0 +1,17 @@
+{
+  "badge": "COMBO ƯU ĐÃI",
+  "title": "Gói Ưu Đãi Đặc Biệt",
+  "subtitle": "Tiết kiệm hơn khi đặt combo cho gia đình và bạn bè",
+  "serving_size": "người",
+  "currency": "VNĐ",
+  "order_button": "Đặt Ngay",
+  "error_title": "Đã xảy ra lỗi",
+  "error_message": "Không thể tải combo. Vui lòng thử lại sau.",
+  "reload_button": "Tải lại",
+  "aria_labels": {
+    "prev_combo": "Combo trước",
+    "next_combo": "Combo tiếp theo",
+    "go_to_combo": "Đến combo",
+    "combo_image": "Combo"
+  }
+}

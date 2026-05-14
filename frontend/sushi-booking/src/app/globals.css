@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+:root {
+  --primary-color: #594545;
+  --secondary-color: #fff;
+  --title-color: #594545;
+<<<<<<< HEAD
+  --desc-color: #9E7676;
+  --button-color: #FFF9F0;
+}
+=======
+  --desc-color: #9e7676;
+  --button-color: #fff9f0;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+}
+
+@keyframes float-slow {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes float-fast {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+.animate-float {
+  animation: float 5s ease-in-out infinite;
+}
+.animate-float-slow {
+  animation: float-slow 7s ease-in-out infinite;
+}
+.animate-float-fast {
+  animation: float-fast 3s ease-in-out infinite;
+}
+>>>>>>> 0c9ba23994a8847a596f4fc74ddc6f328a5c606c

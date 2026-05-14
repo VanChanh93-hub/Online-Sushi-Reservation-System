@@ -1,0 +1,32 @@
+{
+  "subtitle": "Our Restaurant",
+  "title": {
+    "line1": "We are passionate about",
+    "line2": "traditional Japanese cuisine"
+  },
+  "description": "Every dish is prepared with fresh ingredients, featuring authentic Japanese flavors in a space that embodies classic Edo-style ambiance.",
+  "schedule": {
+    "weekdays": {
+      "label": "Monday - Friday",
+      "time": "9:00 AM – 10:00 PM"
+    },
+    "saturday": {
+      "label": "Saturday",
+      "time": "9:00 AM – 8:00 PM"
+    },
+    "sunday": {
+      "label": "Sunday",
+      "time": "10:00 AM – 6:00 PM"
+    },
+    "holidays": {
+      "label": "Holidays",
+      "time": "11:00 AM – 5:00 PM"
+    }
+  },
+  "cta_button": "Explore Menu",
+  "images": {
+    "main": "Sushi Roll",
+    "secondary": "Sushi Dish",
+    "circle": "Japanese Ingredients"
+  }
+}

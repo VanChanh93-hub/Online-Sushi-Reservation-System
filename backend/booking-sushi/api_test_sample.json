@@ -1,0 +1,30 @@
+{
+  "customer_id": 1,
+  "guest_count": 4,
+  "reservation_date": "2025-06-01",
+  "reservation_time": "18:30:00",
+  "payment_method": "momo",
+  "voucher_id": 2,
+  "combo_id": 1,
+  "note": "Khách muốn ngồi gần cửa sổ",
+  "total_price": 500000,
+  "foods": [
+    {
+      "food_id": 1,
+      "quantity": 2,
+      "price": 120000
+    },
+    {
+      "food_id": 3,
+      "quantity": 1,
+      "price": 90000
+    }
+  ],
+  "combos": [
+    {
+      "combo_id": 1,
+      "quantity": 1,
+      "price": 170000
+    }
+  ]
+}

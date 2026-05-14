@@ -1,0 +1,41 @@
+{
+  "logo_text": "寿司匠",
+  "tagline": "Nghệ thuật sushi truyền thống Nhật Bản với sự tinh tế và hoàn hảo trong từng chi tiết",
+  "address": {
+    "title": "Địa chỉ nhà hàng",
+    "street": "123 Hàm Nghi, Quận 1",
+    "city": "TP Hồ Chí Minh"
+  },
+  "opening_hours": {
+    "title": "Giờ mở cửa",
+    "lunch": "11:30 - 14:00 (Trưa)",
+    "dinner": "17:00 - 22:00 (Tối)"
+  },
+  "menu_services": {
+    "title": "Thực đơn & Dịch vụ",
+    "omakase": "Sushi Omakase",
+    "premium_set": "Set Menu cao cấp",
+    "counter_reservation": "Đặt bàn Itamae Counter",
+    "special_events": "Sự kiện đặc biệt"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "phone": "Điện thoại: 024 234 JQK",
+    "email": "Email: info@sushitakumi.vn"
+  },
+  "social": {
+    "title": "Kết nối với chúng tôi"
+  },
+  "newsletter": {
+    "title": "Nhận tin khuyến mãi",
+    "description": "Đăng ký để nhận thông tin ưu đãi đặc biệt và sự kiện độc quyền",
+    "placeholder": "Email của bạn",
+    "button": "Đăng ký"
+  },
+  "links": {
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản sử dụng",
+    "sitemap": "Sitemap"
+  },
+  "copyright": "寿司匠 Sushi Takumi. All rights reserved."
+}

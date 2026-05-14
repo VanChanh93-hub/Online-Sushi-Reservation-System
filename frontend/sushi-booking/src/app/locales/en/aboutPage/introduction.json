@@ -1,0 +1,19 @@
+{
+  "title": "About Us",
+  "intro": "Sushi Takumi combines the traditional art of Japanese cuisine with modern hospitality spirit.",
+  "description": "We proudly serve handcrafted sushi with delicate flavors, rich taste, and the freshest ingredients every day.",
+  "values": {
+    "fresh": {
+      "title": "Fresh Daily",
+      "description": "We carefully select the freshest ingredients every day to ensure the highest quality in each dish."
+    },
+    "art": {
+      "title": "Sushi Craftsmanship",
+      "description": "Each sushi piece is a work of art, crafted by the skilled hands of Takumi chefs."
+    },
+    "space": {
+      "title": "Japanese Ambience",
+      "description": "Diners will enjoy a cozy, refined Japanese atmosphere right in the heart of Saigon."
+    }
+  }
+}

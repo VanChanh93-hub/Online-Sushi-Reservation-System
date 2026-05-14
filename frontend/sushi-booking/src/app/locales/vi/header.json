@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "menu": "Thực đơn",
+    "about": "Về chúng tôi",
+    "contact": "Liên hệ",
+    "reservation": "Đặt bàn"
+  },
+  "user": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "profile": "Thông tin cá nhân",
+    "logout": "Đăng xuất",
+    "menu_label": "Menu người dùng"
+  },
+  "aria": {
+    "home_link": "Trang chủ",
+    "menu_button": "Menu",
+    "user_menu": "Menu người dùng"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "badge": "Nhà hàng sushi #1 Việt Nam",
+  "title": {
+    "japanese": "寿司匠",
+    "english": "SUSHI TAKUMI"
+  },
+  "description": "Trải nghiệm tinh hoa ẩm thực Nhật Bản với nguyên liệu tươi sống, kỹ thuật truyền thống và không gian đậm chất Edo.",
+  "stats": {
+    "experience": {
+      "value": "20+ năm",
+      "label": "Kinh nghiệm"
+    },
+    "rating": {
+      "value": "4.9/5",
+      "label": "Đánh giá"
+    },
+    "serving_time": {
+      "value": "30 phút",
+      "label": "Phục vụ"
+    }
+  },
+  "buttons": {
+    "menu": "🍣 Xem thực đơn",
+    "reservation": "📞 Đặt bàn ngay"
+  },
+  "image_alt": "Sushi nghệ thuật",
+  "image_badge": "⭐ Tươi sống"
+}

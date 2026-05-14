@@ -1,0 +1,30 @@
+{
+  "header": {
+    "subtitle": "THỰC ĐƠN ĐẶC BIỆT",
+    "japanese_title": "美味料理",
+    "main_title": "Thực Đơn Tinh Hoa",
+    "description": "Khám phá các món ăn truyền thống và hiện đại được chế biến từ nguyên liệu tươi ngon nhất"
+  },
+  "search": {
+    "placeholder": "Tìm kiếm món ăn..."
+  },
+  "categories": {
+    "all": "Tất cả",
+    "sushi": "Sushi",
+    "sashimi": "Sashimi",
+    "maki": "Maki",
+    "tempura": "Tempura",
+    "ramen": "Ramen",
+    "dessert": "Dessert"
+  },
+  "states": {
+    "loading": "Đang tải thực đơn...",
+    "no_results": "Không tìm thấy món ăn phù hợp."
+  },
+  "buttons": {
+    "view_all": "Xem toàn bộ thực đơn"
+  },
+  "time": {
+    "minutes": "phút"
+  }
+}

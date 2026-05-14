@@ -1,0 +1,30 @@
+{
+  "register": {
+    "title": "Tạo tài khoản mới",
+    "subtitle": "Điền thông tin để đăng ký tài khoản",
+    "fullName": "Họ và tên",
+    "email": "Email",
+    "phone": "Số điện thoại",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "passwordNote": "Mật khẩu phải có ít nhất 6 ký tự",
+    "agreeTerms": "Tôi đồng ý với ",
+    "terms": "Điều khoản dịch vụ",
+    "privacy": "Chính sách bảo mật",
+    "subscribe": "Tôi muốn nhận thông tin về ưu đãi và sự kiện đặc biệt qua email",
+    "submit": "Đăng ký",
+    "alreadyHaveAccount": "Đã có tài khoản?",
+    "loginNow": "Đăng nhập ngay",
+    "processing": "Đang xử lý...",
+
+    "name_required": "Vui lòng nhập họ và tên",
+    "email_required": "Vui lòng nhập địa chỉ email",
+    "email_invalid": "Địa chỉ email không hợp lệ",
+    "phone_required": "Vui lòng nhập số điện thoại",
+    "phone_invalid": "Số điện thoại phải có ít nhất 10 chữ số",
+    "password_required": "Vui lòng nhập mật khẩu",
+    "password_short": "Mật khẩu phải có ít nhất 6 ký tự",
+    "password_mismatch": "Mật khẩu không khớp",
+    "agree_terms_required": "Vui lòng đồng ý với điều khoản dịch vụ"
+  }
+}

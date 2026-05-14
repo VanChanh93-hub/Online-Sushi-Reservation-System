@@ -1,0 +1,12 @@
+{
+  "heading": "Restaurant Space",
+  "subheading": "Enjoy the warm, elegant and Japanese-inspired atmosphere",
+
+  "list_0": "{\"src\": \"/img/interior7.jpg\", \"title\": \"Main Dining Room\", \"desc\": \"Spacious area with natural light, creating a cozy and relaxing atmosphere.\", \"category\": \"Dining\", \"featured\": true}",
+  "list_1": "{\"src\": \"/img/interior1.jpg\", \"title\": \"Private Corner\", \"desc\": \"Quiet private room, perfect for important meetings and private meals.\", \"category\": \"Private\", \"featured\": false}",
+  "list_2": "{\"src\": \"/img/interior2.jpg\", \"title\": \"Japanese Garden\", \"desc\": \"Nature blended, green space offers a great sense of relaxation.\", \"category\": \"Garden\", \"featured\": true}",
+  "list_3": "{\"src\": \"/img/interior3.jpg\", \"title\": \"Bar Area\", \"desc\": \"Luxurious design with a variety of premium drinks and a modern atmosphere.\", \"category\": \"Bar\", \"featured\": false}",
+  "list_4": "{\"src\": \"/img/interior4.jpg\", \"title\": \"Entrance\", \"desc\": \"Warm welcome design with traditional Japanese style.\", \"category\": \"Entrance\", \"featured\": false}",
+  "list_5": "{\"src\": \"/img/interior5.jpg\", \"title\": \"Party Room\", \"desc\": \"Spacious for hosting special events and celebrations.\", \"category\": \"Event\", \"featured\": false}",
+  "list_6": "{\"src\": \"/img/interior6.jpg\", \"title\": \"Tea Room\", \"desc\": \"Experience traditional Japanese tea ceremony in a quiet, meditative space.\", \"category\": \"Tea\", \"featured\": true}"
+}

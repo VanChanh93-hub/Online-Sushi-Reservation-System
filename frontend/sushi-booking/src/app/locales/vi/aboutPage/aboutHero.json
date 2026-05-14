@@ -1,0 +1,17 @@
+{
+  "title": {
+    "line1": "SUSHI",
+    "line2": "TAKUMI"
+  },
+  "subtitle": "Nghệ thuật sushi truyền thống Nhật Bản",
+  "description": "Mỗi miếng sushi được chế tác với tâm huyết và kỹ thuật hoàn hảo, mang đến trải nghiệm ẩm thực đích thực từ xứ sở hoa anh đào.",
+  "buttons": {
+    "menu": "Khám phá thực đơn",
+    "reserve": "Đặt bàn ngay"
+  },
+  "stats": {
+    "experience": "Năm kinh nghiệm",
+    "rating": "Đánh giá",
+    "special_dishes": "Món đặc sắc"
+  }
+}

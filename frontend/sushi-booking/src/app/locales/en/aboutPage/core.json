@@ -1,0 +1,15 @@
+{
+  "heading": "Core Values",
+  "subheading": "Three key values shape the identity and authentic Japanese experience in every dish and service.",
+  "note": "These principles guide all activities and commitments of Sushi Takumi.",
+  "quote": "These core values are not only the compass for business operations but also our promise to each diner.",
+  "quote_by": "— Sushi Takumi Team",
+
+  "values_0": "{\"title\":\"Quality\",\"desc\":\"Fresh ingredients and authentic Japanese techniques.\",\"detail\":\"We commit to using fresh, carefully selected ingredients from reputable suppliers, combined with traditional Japanese techniques to bring you a premium culinary experience.\",\"icon\":\"Award\",\"stats\":\"100%\",\"statsLabel\":\"Freshness\"}",
+  "values_1": "{\"title\":\"Respect\",\"desc\":\"Treat customers as honored guests in Japanese culture.\",\"detail\":\"We always put customers first, providing thoughtful, courteous service that reflects the spirit of Japanese hospitality.\",\"icon\":\"Heart\",\"stats\":\"4.9★\",\"statsLabel\":\"Ratings\"}",
+  "values_2": "{\"title\":\"Creativity\",\"desc\":\"Innovating the menu while preserving sushi traditions.\",\"detail\":\"We continuously innovate to refresh our menu with unique ingredients, offering diverse culinary experiences while preserving traditional values.\",\"icon\":\"Lightbulb\",\"stats\":\"50+\",\"statsLabel\":\"Special dishes\"}",
+
+  "stats_0": "{\"icon\":\"Award\",\"number\":\"3\",\"text\":\"Core values\"}",
+  "stats_1": "{\"icon\":\"Star\",\"number\":\"15+\",\"text\":\"Years of experience\"}",
+  "stats_2": "{\"icon\":\"Heart\",\"number\":\"100%\",\"text\":\"Quality commitment\"}"
+}

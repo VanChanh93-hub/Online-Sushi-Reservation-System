@@ -1,0 +1,33 @@
+{
+  "title": "Our Journey",
+  "description": "From a small shop in Tokyo to a renowned restaurant chain in Vietnam — a story of passion, tradition, and constant innovation.",
+  "imageAlt": "Sushi Takumi History - From Tokyo to Saigon",
+  "badge": {
+    "title": "30-Year Journey",
+    "subtitle": "From Tokyo to Saigon"
+  },
+  "experience": "Years of Experience",
+  "countries": "Countries",
+  "milestones": {
+    "1995": {
+      "location": "Tokyo",
+      "title": "Passion Begins",
+      "description": "Head chef Takumi Yamamoto opened the first restaurant, showcasing handcrafted sushi with the philosophy that 'every piece is a work of art'."
+    },
+    "2015": {
+      "location": "Saigon",
+      "title": "Expanding Vision",
+      "description": "Sushi Takumi launched in Vietnam, blending Japanese excellence with local culinary culture in a unique harmony."
+    },
+    "2024": {
+      "location": "Present",
+      "title": "Outstanding Achievements",
+      "description": "A favorite destination for sushi lovers, offering refined Japanese cuisine to over 10,000 loyal customers."
+    }
+  },
+  "stats": {
+    "awards": "Awards",
+    "customers": "Customers",
+    "rating": "Rating"
+  }
+}

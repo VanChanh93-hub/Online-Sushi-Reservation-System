@@ -1,0 +1,30 @@
+{
+  "header": {
+    "subtitle": "SPECIAL MENU",
+    "japanese_title": "美味料理",
+    "main_title": "Premium Menu",
+    "description": "Discover traditional and modern dishes prepared with the freshest ingredients"
+  },
+  "search": {
+    "placeholder": "Search for dishes..."
+  },
+  "categories": {
+    "all": "All",
+    "sushi": "Sushi",
+    "sashimi": "Sashimi",
+    "maki": "Maki",
+    "tempura": "Tempura",
+    "ramen": "Ramen",
+    "dessert": "Dessert"
+  },
+  "states": {
+    "loading": "Loading menu...",
+    "no_results": "No matching dishes found."
+  },
+  "buttons": {
+    "view_all": "View full menu"
+  },
+  "time": {
+    "minutes": "minutes"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "badge": "#1 Sushi Restaurant in Vietnam",
+  "title": {
+    "japanese": "寿司匠",
+    "english": "SUSHI TAKUMI"
+  },
+  "description": "Experience the essence of Japanese cuisine with fresh ingredients, traditional techniques and an authentic Edo-style atmosphere.",
+  "stats": {
+    "experience": {
+      "value": "20+ years",
+      "label": "Experience"
+    },
+    "rating": {
+      "value": "4.9/5",
+      "label": "Rating"
+    },
+    "serving_time": {
+      "value": "30 mins",
+      "label": "Serving time"
+    }
+  },
+  "buttons": {
+    "menu": "🍣 View Menu",
+    "reservation": "📞 Book Now"
+  },
+  "image_alt": "Artistic sushi",
+  "image_badge": "⭐ Fresh"
+}
